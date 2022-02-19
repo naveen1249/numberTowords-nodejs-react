@@ -1,3 +1,3 @@
 # numberTowords-nodejs-react
 Nodejs
-./demo.png
+[Contribution guidelines for this project](demo.png)
